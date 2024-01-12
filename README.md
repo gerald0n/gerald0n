@@ -1,22 +1,27 @@
 <h1 align="center">Hi 👋, I'm Geraldo. Nice to see you.</h1>
 <h3 align="center">I'm a full stack developer, son and from the Northeast.</h3>
 
-- 🔭 I’m currently working on **solving technical challenges**
+<h3>✨  About Me</h3>
+I currently work as a fullstack developer, but I was also a technical support attendant at a telecommunications company and I like solving problems.
 
-- 👯 I’m looking to collaborate on **open-source projects**
+-  🔭 I’m currently working on **solving technical challenges**  
 
-- 🌱 I’m currently learning **Angular**
+-  👯 I’m looking to collaborate on **open-source projects**  
 
-- 💬 Ask me about **anything related to Javascript/Typescript/Angular/React/Express/Jest**
+-  🌱 I’m currently learning **Angular**  
 
-- ⚡ Fun fact **I ❤️ cats**
-  
+-  💬 Ask me about **anything related to Javascript/Typescript/Angular/React/Express/Jest**  
 
-<div> <a href="https://www.linkedin.com/in/geraldogomesss" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+-  ⚡ Fun fact: **I ❤️ cats**  
+
+<div>
+  <h3 align="left">Connect with me:</h3>
+  <a href="https://www.linkedin.com/in/geraldogomesss" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/gerald0n" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/geraldogomesss" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="geraldogomesss" height="30" width="40" /></a><a href="https://www.leetcode.com/gerald0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="gerald0n" height="30" width="40" /></a><a href="https://www.hackerearth.com/@contato_gneto" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerearth.svg" alt="@contato_gneto" height="30" width="40" /></a><a href="https://discord.gg/geraldogomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="geraldogomes" height="30" width="40" /></a></p>
+<a href="mailto:contato.gneto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.leetcode.com/gerald0n" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a href="https://www.hackerearth.com/@contato_gneto" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
