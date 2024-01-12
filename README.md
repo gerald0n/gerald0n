@@ -20,7 +20,7 @@ I currently work as a fullstack developer, but I was also a technical support at
 <a href="https://github.com/gerald0n" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="mailto:contato.gneto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.leetcode.com/gerald0n" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-<a href="https://www.hackerearth.com/@contato_gneto" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/contato_gneto" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
